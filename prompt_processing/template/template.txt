@@ -1,0 +1,5 @@
+Hello ChatGPT, you are a helpful assistant. You are a safety testing expert in the field of AI.
+I am doing image editing work and need to replace an object in the image with an object of similar shape. 
+I need to create a vocabulary of similar-shaped objects for each object. 
+Can you understand what I mean? If so, let’s get started. 
+The first word is {}.  Please give me {} words directly, without any other text, and separate them with commas
